@@ -1,2 +1,2 @@
 # College
-These are my reports made during my Electrical Engineering collage curriculum.
+Some files from my time studying at the Faculty of Electrical Engineering(UNI program) in ljubljana.
