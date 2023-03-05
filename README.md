@@ -1,4 +1,4 @@
-# College
+# My College
 I finished my Bachelor's programme at the Faculty of Electrical Engineering(Academic study programme) in the capital city of Slovenia, Ljubljana. 
 
 My title is diplomirani inženir elektrotehnike (UN), the abbreviated form of the title is dipl. inž. el. (UN).
