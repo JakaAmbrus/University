@@ -3,7 +3,7 @@ I finished my Bachelor's programme at the Faculty of Electrical Engineering(Acad
 
 My title is diplomirani inženir elektrotehnike (UN), the abbreviated form of the title is dipl. inž. el. (UN).
 
-The repository holds reports from a few subjects where we had to present them digitally. Needless to say that in our establishment we did an abundance of different subjects that I am unable to showcase in a Github enviroment. I do however wish to provide my curicullum to help clerify the scope of my knowledge. I would like to add that I attended the 2nd semester in my last year of college as part of the Erasmus+ program in Bucharest: Faculty of Electronics, Telecommunications and Information Technology(ETTI) UPB and had a few subjects at the Faculty of Industrial Engineering and Robotics(FIR).
+The repository holds laboratoy reports from a few subjects where we had to present them digitally. Needless to say that in our establishment we did an abundance of different subjects that I am unable to showcase in a Github enviroment. I do however wish to provide my curicullum to help clerify the scope of my knowledge. I would like to add that I attended the 2nd semester in my last year of college as part of the Erasmus+ program in Bucharest: Faculty of Electronics, Telecommunications and Information Technology(ETTI) UPB and had a few subjects at the Faculty of Industrial Engineering and Robotics(FIR).
 
 ## Notable software used during the curriculum:
 C, JavaScript, MatLab, WolframAlpha, R, Labview, LTspice, Arduino IDE, Dymola, Logic Friday
