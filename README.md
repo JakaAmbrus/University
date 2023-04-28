@@ -2,7 +2,9 @@
 I finished my Bachelor's programme at the Faculty of Electrical Engineering(Academic study programme) in the capital city of Slovenia, Ljubljana. 
 
 The repository holds laboratoy reports from a few subjects where we had to present them digitally. Needless to say that in our establishment we did an abundance of different subjects that I am unable to showcase in a Github enviroment. I do however wish to provide my curicullum to help clerify the scope of my knowledge. I would like to add that I attended the 2nd semester in my last year of college as part of the Erasmus+ program in Bucharest: Faculty of Electronics, Telecommunications and Information Technology(ETTI) UPB and had a few subjects at the Faculty of Industrial Engineering and Robotics(FIR).
+
 ## Title
+
 My title is diplomirani inženir elektrotehnike (UN), the abbreviated form of the title is dipl. inž. el. (UN),
 or **graduated engineer of electrical engineering, academic programme**.
 
