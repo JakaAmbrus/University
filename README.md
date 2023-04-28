@@ -14,7 +14,7 @@ or **graduated engineer of electrical engineering, academic programme**.
 ## My Bachelors curriculum:
 ### First year:
 
-+ [Mathematics I](https://www.fe.uni-lj.si/en/education/1st_cycle_academic_study_programme/electrical_engineering/subjects/2009010509580906/)
++ [Mathematics I](https://www.old.fe.uni-lj.si/en/education/1st_cycle_academic_study_programme/electrical_engineering/subjects/2009010509580906/)
 + [Mathematics II](https://www.fe.uni-lj.si/en/education/1st_cycle_academic_study_programme/electrical_engineering/subjects/2009010511073086/)
 + [Fundamentals of Electrical Engineering I](https://www.fe.uni-lj.si/en/education/1st_cycle_academic_study_programme/electrical_engineering/subjects/2009010510022034/)
 + [Fundamentals of Electrical Engineering II](https://www.fe.uni-lj.si/en/education/1st_cycle_academic_study_programme/electrical_engineering/subjects/2009010511121295/)
