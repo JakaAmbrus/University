@@ -32,7 +32,7 @@ or **graduated engineer of electrical engineering, academic programme**.
 - [Semiconductor Electronics](https://www.fe.uni-lj.si/en/education/1st_cycle_academic_study_programme/electrical_engineering/subjects/2009010512014592/)
 - [Digital Structures](https://www.fe.uni-lj.si/en/education/1st_cycle_academic_study_programme/electrical_engineering/subjects/2009010511372338/)
 - [Communication Systems](https://www.fe.uni-lj.si/en/education/1st_cycle_academic_study_programme/electrical_engineering/subjects/2009010511384231/)
-- [Automatic Control Systems](https://www.fe.uni-lj.si/en/education/1st_cycle_academic_study_programme/electrical_engineering/subjects/2009011208573472/)
+- [Automatic Control Systems](https://old.fe.uni-lj.si/en/education/1st_cycle_academic_study_programme/electrical_engineering/subjects/2009011208573472/)
 
 ### Third year:
 - [Electrical Machine Modelling](https://www.fe.uni-lj.si/en/education/1st_cycle_academic_study_programme/electrical_engineering/subjects/2009011210310097/)
