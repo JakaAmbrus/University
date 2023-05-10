@@ -6,7 +6,7 @@ The repository holds laboratoy reports from a few subjects where we had to prese
 ## Title
 
 My title is diplomirani inženir elektrotehnike (UN), the abbreviated form of the title is dipl. inž. el. (UN),
-or **graduated engineer of electrical engineering, academic programme**.
+or **graduated Engineer of Electrical Engineering, Academic programme**.
 
 ## Notable software used during the curriculum:
 **C**,  **JavaScript**,  **MatLab**, **WolframAlpha**, **R**,  **Labview**,  **LTspice**,  **Arduino IDE**,  **Dymola**,  **Logic Friday**
